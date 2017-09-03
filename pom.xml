@@ -11,7 +11,7 @@
 
   <groupId>de.bildschirmarbeiter.application</groupId>
   <artifactId>application-parent</artifactId>
-  <version>1-SNAPSHOT</version>
+  <version>1</version>
   <packaging>pom</packaging>
 
   <name>Bildschirmarbeiter Application Parent</name>
@@ -23,7 +23,7 @@
     <connection>scm:git:git://github.com/bildschirmarbeiter/application-parent.git</connection>
     <developerConnection>scm:git:git@github.com:bildschirmarbeiter/application-parent.git</developerConnection>
     <url>https://github.com/bildschirmarbeiter/application-parent/tree/master</url>
-    <tag>HEAD</tag>
+    <tag>application-parent-1</tag>
   </scm>
 
   <dependencyManagement>
