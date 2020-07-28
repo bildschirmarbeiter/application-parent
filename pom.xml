@@ -6,7 +6,7 @@
   <parent>
     <groupId>de.bildschirmarbeiter</groupId>
     <artifactId>parent</artifactId>
-    <version>4</version>
+    <version>6</version>
     <relativePath />
   </parent>
 
